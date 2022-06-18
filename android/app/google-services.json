@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892186440297",
+    "project_id": "lojavirtual-19d58",
+    "storage_bucket": "lojavirtual-19d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892186440297:android:6faf991bef086fd010a8f8",
+        "android_client_info": {
+          "package_name": "br.com.theisen.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892186440297-v2cocd40ofr5o5l8dpiq9hvsebianqe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznhbJ9ex_qPyUQf5amn5zdxiYZvjdBkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892186440297-v2cocd40ofr5o5l8dpiq9hvsebianqe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
