@@ -1,6 +1,6 @@
 # loja_virtual
 
-A new Flutter project.
+Aplicativo para loja virtual. Este app é dividido em duas partes(loja_virtual e gerencia_loja_virtual)
 
 ## Getting Started
 
